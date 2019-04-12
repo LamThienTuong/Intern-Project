@@ -1,0 +1,91 @@
+.active {
+  color: #ffa15f;
+}
+
+li {
+  width: 220px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  margin-top: 104px;
+  position: absolute;
+  z-index: 2;
+  list-style: none;
+}
+
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  margin: 12px 20px 12px 20px;
+}
+
+.Type-Something {
+  display: inline-block;
+  width: 65px;
+  height: 20px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #3d3d3f;
+  margin: 14px 89px 14px 0px;
+}
+
+.logo {
+  width: 132px;
+  height: 27px;
+  object-fit: contain;
+  margin: 32px 1264px 791px 44px;
+  position: absolute;
+  z-index: 2;
+}
+
+.Rectangle-2 {
+  width: 80%;
+  height: 850px;
+  box-shadow: 1px 0 0 0 #ededed;
+  background-color: #f6f6f6;
+  position: relative;
+  z-index: 1;
+}
+
+.title {
+  width: 100px;
+  height: 36px;
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #202124;
+}
+
+.Avatar {
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 5px 20px 0 rgba(61, 61, 63, 0.2);
+  border: solid 2px #ffffff;
+}
+
+.UserName {
+  width: 85px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: #202124;
+}

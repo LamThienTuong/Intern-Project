@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>CDF5F3B9-7B81-45BD-B5CA-9CD683A979AB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M4,16.8537678 L4,19.5556169 C4,19.8044714 4.1955284,20 4.44438272,20 L7.14622969,20 C7.2617692,20 7.37730871,19.9555617 7.4572976,19.8666851 L17.1626163,10.1702463 L13.8297459,6.83737317 L4.13331482,16.533812 C4.04443827,16.6226886 4,16.7293405 4,16.8537678 Z M19.7400361,7.59282441 C20.0866546,7.24620561 20.0866546,6.68628293 19.7400361,6.33966412 L17.660325,4.25995131 C17.4942755,4.09352747 17.2688395,4 17.0337453,4 C16.7986512,4 16.5732151,4.09352747 16.4071657,4.25995131 L14.7807249,5.88639338 L18.1135953,9.21926648 L19.7400361,7.59282441 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Edit">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon/editor/mode_24px" fill="#9B9B9B" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

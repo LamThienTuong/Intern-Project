@@ -1,0 +1,138 @@
+.logo {
+  width: 132px;
+  height: 27px;
+  object-fit: contain;
+  margin: 32px 1264px 791px 44px;
+}
+
+.Rectangle-5 {
+  width: 1440px;
+  height: 850px;
+  object-fit: contain;
+  background-blend-mode: color, normal;
+  background-image: linear-gradient(to bottom, #000000, #000000),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.5));
+  float: left;
+}
+
+.Rectangle-6 {
+  width: 380px;
+  height: 424px;
+  margin: 213px 530px 213px 530px;
+  opacity: 0.8;
+  border-radius: 2px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 10px 24px 0 var(--black-8);
+  background-color: rgba(61, 61, 63, 0.8);
+  float: left;
+}
+
+.Log-in {
+  width: 91px;
+  height: 36px;
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #ffa15f;
+  margin: 32px 144px 46px 145px;
+}
+
+.Email {
+  width: 40px;
+  height: 18px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #acacac;
+  margin: 0px 308px 8px 32px;
+}
+
+.Password {
+  width: 75px;
+  height: 18px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #acacac;
+  margin: 0px 273px 8px 32px;
+}
+
+.input01 {
+  width: 316px;
+  height: 48px;
+  border-radius: 2px;
+  border: solid 1px var(--white-three);
+  background-color: #ffff;
+  margin: 0px 32px 20px 32px;
+  font-size: 18px;
+  padding-left: 16px;
+  font-family: Montserrat;
+}
+
+.input02 {
+  width: 316px;
+  height: 48px;
+  border-radius: 2px;
+  border: solid 1px var(--white-three);
+  background-color: #ffff;
+  margin: 0px 32px 40px 32px;
+  font-size: 18px;
+  padding-left: 16px;
+  font-family: Montserrat;
+}
+
+button {
+  width: 316px;
+  height: 48px;
+  border-radius: 2px;
+  background-color: #ffa15f;
+  margin: 0px 32px 32px 32px;
+}
+
+.button-text {
+  width: 45px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: #ffff;
+  margin: 12px 136px 12px 136px;
+}
+
+.logo {
+  position: absolute;
+  z-index: 2;
+}
+
+.Rectangle-5 {
+  position: relative;
+  z-index: 1;
+}
+
+.Rectangle-6 {
+  position: absolute;
+  z-index: 2;
+}
+
+._Seller-Dashboard {
+  width: 1440px;
+  height: 850px;
+  background-color: #f6f6f6;
+}

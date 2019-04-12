@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>DE57FCD6-47DC-4522-BE2B-3CF399CE1729</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.5864772,22.5 C12.6864772,22.5 13.5764772,21.61 13.5764772,20.51 L9.59647719,20.51 C9.59647719,21.61 10.4864772,22.5 11.5864772,22.5 Z M19.8764772,17.79 L18.5864772,16.5 L18.5864772,10.5 C18.5864772,7.15 16.2264772,4.35 13.0864772,3.67 L13.0864772,2.5 C13.0864772,1.67 12.4164772,1 11.5864772,1 C10.7564772,1 10.0864772,1.67 10.0864772,2.5 L10.0864772,3.67 C6.94647719,4.35 4.58647719,7.15 4.58647719,10.5 L4.58647719,16.5 L3.29647719,17.79 C2.66647719,18.42 3.10647719,19.5 3.99647719,19.5 L19.1664772,19.5 C20.0664772,19.5 20.5064772,18.42 19.8764772,17.79 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Notification">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="icon/alert/notification_important_24px" fill="#9B9B9B" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
